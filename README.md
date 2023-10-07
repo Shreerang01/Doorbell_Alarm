@@ -1,5 +1,5 @@
 
-# Doorbell Alarm using AND GATE
+# Doorbell Alarm using OR GATE
 
 
 In this simple project, we will create a Doorbell Alarm simulation on Tinkercad using the 7432 IC, which is a quad 2-input OR gate. The project aims to mimic the functionality of a doorbell alarm system by utilizing the 7432 IC to combine signals from two separate inputs, simulating the doorbell button and a motion sensor. When either the doorbell button or the motion sensor is triggered, the OR gate will produce an output signal, activating a simulated alarm or buzzer, thereby demonstrating the basic principles of an OR gate-based doorbell alarm system.
